@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! 👋 I'm Fabian 
 
-<!--
-**DannyB0t7/DannyB0t7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+I'm a **Software Developer** with over **1 year of experience** in building intuitive and scalable user interfaces using **React.js**. I love turning ideas into reality through clean, maintainable, and efficient code.  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack  
+- **Frontend:** React.js, JavaScript, TypeScript, Redux, HTML5, CSS3, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Tools & Platforms:** Git, GitHub, VS Code, Figma  
+- **Other Skills:** REST APIs, GraphQL, Web Performance Optimization  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning  
+- Advanced React Patterns  
+- Next.js  
+- UI/UX Best Practices  
+
+## 📫 Let's Connect!  
+- [LinkedIn](https://www.linkedin.com/in/fabian-daniel-j-41b198224/)  
