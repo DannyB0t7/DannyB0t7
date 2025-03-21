@@ -14,8 +14,8 @@ I'm a **Software Developer** with over **1 year of experience** in building intu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fabian-daniel-j-41b198224/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dannybot77@gmail.com) 
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=DannyB0t7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DannyB0t7&theme=dark&hide_border=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=DannyB0t7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)<br/> -->
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=DannyB0t7&theme=dark&hide_border=false)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyB0t7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
