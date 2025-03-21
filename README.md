@@ -1,6 +1,5 @@
 # Hi there! 👋 I'm Fabian 
-
-## 🚀 About Me  
+ 
 I'm a **Software Developer** with over **1 year of experience** in building intuitive and scalable user interfaces using **React.js**. I love turning ideas into reality through clean, maintainable, and efficient code.  
 
 ## 💻 Tech Stack
